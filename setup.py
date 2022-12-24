@@ -8,7 +8,7 @@ setup(
     py_modules=["clip"],
     version="1.0",
     description="",
-    author="OpenAI",
+    author="aojiu",
     packages=find_packages(exclude=["tests*"]),
     install_requires=[
         str(r)
